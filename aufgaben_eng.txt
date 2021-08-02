@@ -1,9 +1,9 @@
 Exercises in experiment 6.8 (Supernova)
 ===================================
 1. Discussion of the spectrum on days 2, 10 and 50
-- "changes (brightness, flow distribution, lines)
-- Find the continuum
-- Search paragraph / em. Lines
+- changes (brightness, flow distribution, lines)
+- find the continuum
+- search abs./em. lines
 - which lines are to be expected
 - typical speeds Vabs
 
@@ -21,7 +21,7 @@ L for D = 50 kpc is known from Table 1.
 For the tabulated days
 - Adapt Planck curves.
 - Determine maximum (continuum) and from this
-Determine T (Wien's law of displacement).
+  determine T (Wien's displacement law).
 
 Discussion of the two methods for T
 
@@ -30,6 +30,6 @@ Determine photosphere radius from T (Stefan-Boltzmann law)
 Determine distance D by comparing R (Abs.max) and R (Phot).
 
 Assessment of energies as
-EM energy, kin. Energy, neutrino energy.
+EM energy, Kinetic energy, neutrino energy.
 
 Discussion of the energies.  
