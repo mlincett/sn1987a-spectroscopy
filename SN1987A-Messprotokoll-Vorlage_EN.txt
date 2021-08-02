@@ -1,0 +1,57 @@
+SPECTROSCOPY OF SUPERNOVA SN1987A
+===================================
+Group: N
+Name 1: NN
+Name 2: NN
+ Date: DD.MM.JJJJ
+
+MEASUREMENT LOG
+-------------
+Measurement of the wavelength lambda in angstroms. 
+
+1. Investigation of the absorption maxima in the P-Cygni profile
+-------------------------------------------------- -----
+Determination of lambda (Abs.max) 
+
+      6563    5890    6141    5018 (lambda0)
+----------------------------------
+Tag   H       Na      Ba      Fe
+----------------------------------
+  2   ----    ----    ----    ----
+  5   ----    ----    ----    ----
+ 10   ----    ----    ----    ----
+ 20   ----    ----    ----    ----
+ 30   ----    ----    ----    ----
+ 40   ----    ----    ----    ----
+ 50   ----    ----    ----    ----
+ 60   ----    ----    ----    ----
+ 70   ----    ----    ----    ----
+ 80   ----    ----    ----    ----
+ 90   ----    ----    ----    ----
+100   ----    ----    ----    ----
+----------------------------------
+Error: ---
+Comment: ---
+
+
+2. Investigation of the continuum
+------------------------------
+Determination of the temperature by
+a) Estimation of lamdba_max (Wien's displacement law)
+b) Fit of a Planck curve (Nr = number of the Planck curve)
+
+------------------------------------
+Tag   lambda_max    Nr(Planck curve)
+------------------------------------
+  2   ----          --
+  5   ----          --
+ 10   ----          --
+ 20   ----          --
+ 30   ----          --
+ 40   ----          --
+ 50   ----          --
+ 70   ----          --
+100   ----          --
+------------------------------------
+Error: ---
+Comment: ---

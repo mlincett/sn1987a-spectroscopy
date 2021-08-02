@@ -1,0 +1,57 @@
+SPEKTROSKOPIE DER SUPERNOVA SN1987A
+===================================
+Gruppe: N
+Name 1: NN
+Name 2: NN
+ Datum: DD.MM.JJJJ
+
+MESSPROTOKOLL
+-------------
+Messung der Wellenlänge lambda in Angström.
+
+1. Untersuchung der Absorptionsmaxima im P-Cygni-Profil
+-------------------------------------------------------
+Bestimmung von lambda(Abs.max)
+
+      6563    5890    6141    5018 (lambda0)
+----------------------------------
+Tag   H       Na      Ba      Fe
+----------------------------------
+  2   ----    ----    ----    ----
+  5   ----    ----    ----    ----
+ 10   ----    ----    ----    ----
+ 20   ----    ----    ----    ----
+ 30   ----    ----    ----    ----
+ 40   ----    ----    ----    ----
+ 50   ----    ----    ----    ----
+ 60   ----    ----    ----    ----
+ 70   ----    ----    ----    ----
+ 80   ----    ----    ----    ----
+ 90   ----    ----    ----    ----
+100   ----    ----    ----    ----
+----------------------------------
+Fehler: ---
+Kommentar: ---
+
+
+2. Untersuchung des Kontinuums
+------------------------------
+Bestimmung der Temperatur durch
+a) Abschätzung von lamdba_max (Wiensches Verschiebungsgesetz)
+b) Anpassung einer Planck-Kurve (Nr = Nummer der Planck-Kurve)
+
+------------------------------------
+Tag   lambda_max    Nr(Planck-Kurve)
+------------------------------------
+  2   ----          --
+  5   ----          --
+ 10   ----          --
+ 20   ----          --
+ 30   ----          --
+ 40   ----          --
+ 50   ----          --
+ 70   ----          --
+100   ----          --
+------------------------------------
+Fehler: ---
+Kommentar: ---
